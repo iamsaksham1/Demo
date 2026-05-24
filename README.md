@@ -1,3 +1,3 @@
 # Demo
 
-this is committed by Aditya Rathore
+this is commited by Aditya Rathore
